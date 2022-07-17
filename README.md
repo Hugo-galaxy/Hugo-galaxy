@@ -12,7 +12,7 @@ I'm currently studying HTML, CSS, JS and Python.
 </div>
 
 ### Let's get connect!
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugomonteiroguedes@gmail.com)
 
 ### Technologies I use:
 <div>
