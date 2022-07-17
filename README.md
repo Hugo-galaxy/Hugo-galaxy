@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi! 👋
 
-<!--
-**Hugo-galaxy/Hugo-galaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hugo! 
+<br>
+I'm a computer science student always looking for more learning!
+<br>
+I'm currently studying HTML, CSS, JS and Python.
 
-Here are some ideas to get you started:
+<div>
+   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=hugo-galaxy&show_icons=true&theme=highcontrast"/> 
+   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-galaxy&layout=compact&theme=highcontrast"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's get connect!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+
+### technologies I use
