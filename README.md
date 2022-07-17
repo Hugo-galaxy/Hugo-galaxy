@@ -7,8 +7,8 @@ I'm a computer science student always looking for more learning!
 I'm currently studying HTML, CSS, JS and Python.
 
 <div>
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=hugo-galaxy&show_icons=true&theme=highcontrast"/> 
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-galaxy&layout=compact&theme=highcontrast"/>
+   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=hugo-galaxy&show_icons=true&theme=highcontrast"/> 
+   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-galaxy&layout=compact&theme=highcontrast"/>
 </div>
 
 ### Let's get connect!
