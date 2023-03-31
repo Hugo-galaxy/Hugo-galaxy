@@ -4,7 +4,7 @@ I'm Hugo!
 <br>
 I'm a computer science student always looking for more learning!
 <br>
-I'm currently studying HTML, CSS, JS and Python.
+I'm currently studying HTML, CSS, JS, Java and Python.
 
 <div>
    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=hugo-galaxy&show_icons=true&theme=highcontrast"/> 
